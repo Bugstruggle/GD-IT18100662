@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D35367DB-9E45-5514-DEF3-0BEF2D8A28D6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MainScene/Scripts/GameStats.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="31" Column="61" />
+      <File FileName="Assets/Standard Assets/Utility/ForcedReset.cs" />
+      <File FileName="Assets/MainScene/Scripts/GameStats.cs" Line="43" Column="25" />
+      <File FileName="Assets/MainScene/Scripts/Player.cs" />
+      <File FileName="Assets/MainScene/Scripts/Holder.cs" />
+      <File FileName="Assets/MainScene/Scripts/CameraScript.cs" />
+      <File FileName="Assets/MainScene/Scripts/FrameSettings.cs" />
+      <File FileName="Assets/MainScene/Scripts/Hurdle.cs" />
+      <File FileName="Assets/MainScene/Scripts/carrot.cs" />
+      <File FileName="Assets/MainMenu/MainMenu.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="faf2bc1f-dd50-403c-a1bb-170e549d4d9a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

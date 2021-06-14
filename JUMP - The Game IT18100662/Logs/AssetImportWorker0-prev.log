@@ -1,0 +1,126 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mac/Documents/New Project/brand_therapy/Jelly Jump Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50566
+Successfully changed project path to: /Users/mac/Documents/New Project/brand_therapy/Jelly Jump Game
+/Users/mac/Documents/New Project/brand_therapy/Jelly Jump Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mac/Documents/New Project/brand_therapy/Jelly Jump Game/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-07 11:25:29.874 Unity[4018:58029] Color LCD preferred device: NVIDIA GeForce GT 650M (high power)
+2021-06-07 11:25:29.874 Unity[4018:58029] Metal devices available: 2
+2021-06-07 11:25:29.874 Unity[4018:58029] 0: NVIDIA GeForce GT 650M (high power)
+2021-06-07 11:25:29.874 Unity[4018:58029] 1: Intel HD Graphics 4000 (low power)
+2021-06-07 11:25:29.875 Unity[4018:58029] Using device NVIDIA GeForce GT 650M (high power)
+Initializing Metal device caps: NVIDIA GeForce GT 650M
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56018
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000767 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 48.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.549 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001328 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.412 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1426 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.7 MB.
+System memory in use after: 121.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1854.
+Total: 2.329553 ms (FindLiveObjects: 0.216823 ms CreateObjectMapping: 0.064750 ms MarkObjects: 1.958422 ms  DeleteObjects: 0.087792 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MainScene/MainScene.unity
+  artifactKey: Guid(c7082573aac37284f9ca0eb0f004aab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MainScene/MainScene.unity using Guid(c7082573aac37284f9ca0eb0f004aab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '366503784e560e685151a3208f88b86f') in 0.015024 seconds
+  Import took 0.018069 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001183 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.346 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1422 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.6 MB.
+System memory in use after: 121.7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1856.
+Total: 2.392401 ms (FindLiveObjects: 0.186793 ms CreateObjectMapping: 0.057740 ms MarkObjects: 2.121000 ms  DeleteObjects: 0.025215 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.371 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1423 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.9 MB.
+System memory in use after: 122.0 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1858.
+Total: 2.831429 ms (FindLiveObjects: 0.210195 ms CreateObjectMapping: 0.094336 ms MarkObjects: 2.494335 ms  DeleteObjects: 0.030787 ms)
+
